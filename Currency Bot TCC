@@ -1,0 +1,9 @@
+module.exports = {
+    token: "MTE2NjE2MTk0MzMzNDIyNDAxMg.G1hE-4.flGP3yekVkhirJpk03nvxKk4LdVLI11u_GHGCM",
+    prefix: "tcc.",
+    admins: [
+        "649008383307022353"
+],
+    debug: true,
+    countChannel: "countChannelID"
+};
